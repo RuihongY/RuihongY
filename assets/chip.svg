@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="ASIC illustration">
+ <rect x="4" y="4" width="232" height="232" rx="28" fill="#faf7f2"/>
+ <g stroke="#b78a2c" stroke-width="5" stroke-linecap="round">
+  <path d="M80 38v20m27-20v20m27-20v20m27-20v20M80 182v20m27-20v20m27-20v20m27-20v20M38 80h20m-20 27h20m-20 27h20m-20 27h20M182 80h20m-20 27h20m-20 27h20m-20 27h20"/>
+ </g>
+ <rect x="56" y="56" width="128" height="128" rx="14" fill="#7a0019"/>
+ <rect x="68" y="68" width="104" height="104" rx="8" fill="none" stroke="#ffcc33" stroke-width="1.5"/>
+ <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+  <text x="120" y="98" font-size="11" letter-spacing="2" fill="#ffcc33">ARCHITECTURE</text>
+  <text x="120" y="132" font-size="27" font-weight="700" fill="#ffffff">ASIC</text>
+  <text x="120" y="153" font-size="10" letter-spacing="2" fill="#ffcc33">RTL → SILICON</text>
+ </g>
+</svg>
